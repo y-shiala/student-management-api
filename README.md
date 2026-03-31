@@ -340,7 +340,3 @@ This project is licensed under the **MIT License** — feel free to use, modify,
 ## 👤 Author
 
 Built by **Yvonnah Shiala**.
-
----
-
-*If you found this helpful, give it a ⭐ on GitHub!*
